@@ -30,14 +30,14 @@ Our framework—**Leadership, Professionalism, Community**—guides everything w
 ## 🏛️ 2025-26 Executive Board
 | Role | Name |
 | ---- | ---- |
-| President | **Ryan Majd** |
+| President | **Daniel Rifai** |
 | VP Membership | Andrew Warner |
-| VP Marketing | Alli Gay & Ajeetha Murugappan |
-| VP Finance | Daniel Rifai |
-| VP Internal Affairs | Maadhavan Muthuselvan |
-| VP External Affairs | Stephen Sulimani |
+| VP Marketing | Ajeetha Murugappan |
+| VP Finance | Alli Gay |
+| VP Internal Affairs | Yoshna Agarwal |
+| VP External Affairs | Jonah Criswell |
 | VP Professional Dev | Manya Vikram |
-| VP Technical Dev | Ethan Ogle |
+| VP Technical Dev | Adithya L |
 ---
 
 ## 📂 Repositories at a Glance
